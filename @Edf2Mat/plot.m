@@ -1,3 +1,5 @@
+% new
+
 function plot(obj, startIdx, endIdx)
 %PLOT plots the edf content to verify if they are useful. For all other
 %   post processing you should rather define your own plots
